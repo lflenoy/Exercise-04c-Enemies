@@ -2,6 +2,8 @@
 
 ## Implementation
 
+- Created 3 different enemies with different "Brains"
+
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -14,4 +16,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Leya Flenoy
